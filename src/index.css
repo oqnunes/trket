@@ -25,5 +25,5 @@ code {
 
 ._primaryBox{
   width: var(--extraLargeDesktops);
-  height: 100vh;
+  height: calc(100vh - 100px);
 }
