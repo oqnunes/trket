@@ -1,0 +1,31 @@
+.left_header{
+  height: 100px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.imageTitle{
+  height: 50px;
+  cursor: pointer;
+}
+.secondBoxSubTitle{
+  width: 50%;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.linkFor{
+  cursor: pointer;
+  color: '#1B1B44';
+}
+.linkFor:nth-last-child(1){
+  padding: 10px 40px;
+
+  border: 2px solid #894fC7;
+  border-radius: 30px;
+
+  color: #894fC7;
+  font-weight: 600;
+}
