@@ -12,7 +12,7 @@ function Presentation() {
           We biuld product managers
         </h1>
         <p>
-          Get your next Product Management job or promotion
+          Get your next Product Management<br />job or promotion
         </p>
         <div className="contentButtonsPrimaryBox">
           <button>

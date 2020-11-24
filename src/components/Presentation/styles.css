@@ -24,7 +24,7 @@
   padding-top: 40px;
 }
 .contentButtonsPrimaryBox button{
-  padding: 20px 60px;
+  padding: 16px 60px;
   margin: 0px 6px;
   text-decoration: none;
   cursor: pointer;
@@ -37,9 +37,6 @@
   letter-spacing: 0.4px;
 }
 .contentButtonsPrimaryBox button:nth-last-child(1){
-  padding: 20px 60px;
-  margin: 0px 6px;
-  text-decoration: none;
   cursor: pointer;
   background-color: white;
   border: 2px solid #854dce;

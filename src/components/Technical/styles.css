@@ -1,0 +1,36 @@
+.contentBoxes{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.boxItemLi{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 20px 0px;
+}
+.contentIconImage{
+  width: 80px;
+  height: 80px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 60px;
+
+  background-color: #eff6ff;
+}
+.contentBoxes img{
+  width: 40px;
+}
+.boxItemLi p{
+  font-weight: 600;
+  color: rgba(0,0,0,0.8);
+  margin-top: 18px;
+}
+.boxItemLi span{
+  text-align: center;
+  padding: 0px 60px;
+}

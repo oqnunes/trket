@@ -19,6 +19,10 @@ code {
     monospace;
 }
 
+._normalSize{
+  width: var(--extraLargeDesktops);
+}
+
 ._header{
   width: var(--extraLargeDesktops);
 }
